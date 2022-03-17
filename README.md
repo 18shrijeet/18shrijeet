@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, It's Shrijeet
+I'm a passionate backend engineer trying to contribute to solve real world problems 
 
 <!--
 **18shrijeet/18shrijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
